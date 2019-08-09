@@ -1,7 +1,7 @@
 # ifjs
 A tiny Javascript framework for minimal choose-your-own-adventure type games.
 
-The js13k game competition (http://js13k.com) got me interested in minimizing my choose-your-own-adventure "framework" and releasing it to the wild.
+The js13k game competition (http://js13kgames.com) got me interested in minimizing my choose-your-own-adventure "framework" and releasing it to the wild.
 
 I'm not a Javascript programmer by trade, as you may discover. And don't even get me started on CSS. But this was built during a Ludum Dare game competition over the course of a weekend, along with the sample story, and also a bunch of artwork. I disabled images for this version, but if you reach out I can send you the code for background and foreground image display.
 
