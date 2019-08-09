@@ -9,22 +9,17 @@ Your game needs to look like sample.js - which is /mostly/ a JSON file, but I to
 
 The variables you need to declare in your game file are:
 
-gametitle
-gamedescription
-game
+gametitle, gamedescription, game
 
 The game variable will hold your giant JSON blob, structured with pages and links, and if you want to use them, conditions.
 
 Each page needs
 
-id
-body
-choices
+id, body, choices
 
 And each choice needs
 
-text
-link (which references a page id)
+text, link (which references a page id)
 
 Conditional content - if you want, a given page can set a condition to a value, which can be checked on other pages or links.
 setConditions - [{var:"knife", value:"true"}]
